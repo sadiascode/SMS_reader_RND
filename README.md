@@ -1,4 +1,4 @@
-# flutter_sms_rnd1
+# flutter_sms_rnd
 
 A new Flutter project.
 
